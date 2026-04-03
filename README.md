@@ -18,9 +18,12 @@ ResponsiveVoice API – Text-to-speech conversion
 📂 Project Structure
 
 project-folder/
-│
+
+
 ├── index.html   # Main UI and script
+
 ├── index.css    # Styling file
+
 └── README.md    # Documentation
 
 ⚙️ How It Works
@@ -54,6 +57,7 @@ Accessibility tools
 Learning & pronunciation apps
 Content narration
 Assistive technology projects
+
 📄 License
 
 This project is open-source and free to use.
