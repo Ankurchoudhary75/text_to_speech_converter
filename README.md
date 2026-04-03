@@ -9,12 +9,14 @@ Uses external speech API (ResponsiveVoice)
 Works directly in the browser (no backend required)
 
 🛠️ Tech Stack
+
 HTML5 – Structure of the application
 CSS3 – Styling and layout
 JavaScript – Functionality and API integration
 ResponsiveVoice API – Text-to-speech conversion
 
 📂 Project Structure
+
 project-folder/
 │
 ├── index.html   # Main UI and script
